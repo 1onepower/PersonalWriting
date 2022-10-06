@@ -1,13 +1,13 @@
 # PersonalWriting
-Some meta-fictions and other selected writings in Chinese
+
+Some selected writings in Chinese language
 
 致未来某一时刻的读者：
 
 如果你是第一次读到我的文字，可考虑先阅读以下篇目：
 
 Memories - 《<七种方法>后传》
-
-Fictions - 《奥卡姆剃刀》、《<那个不一样的我>再版序》、《独孤九剑》
+Fictions - 《奥卡姆剃刀》、《<那个不一样的我>再版序》、《独孤九剑》（此三篇按顺序阅读）
 
 文集中所有文章都标出了初次成文的日期，其中某些在之后又经历过数次修改。总得来说，基本上反映了我近四年心境的变化。成文较早的篇目，已经能明显读出与今日我的思绪之不同。
 
@@ -17,4 +17,6 @@ Fictions - 《奥卡姆剃刀》、《<那个不一样的我>再版序》、《�
 
 祝你阅读愉快。
 
-二零二一年十一月
+二零二二年十月
+
+
